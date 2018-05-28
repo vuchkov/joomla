@@ -1,0 +1,35 @@
+{
+    "CALENDAR": {
+        "PREVIOUS": "anterior",
+        "DAY": "Dia",
+        "NEXT": "seguinte",
+        "MONTH": "m\u00eas",
+        "WEEK": "semana",
+        "TODAY": "hoje"
+    },
+    "MESSAGE": {
+        "PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Por favor indique um email v\u00e1lido!",
+        "VALUE_IS_REQUIRED": "Um valor \u00e9 necess\u00e1rio!",
+        "YOU_HAVE_SUCCESSFULLY_SUBSCRIBE": "Subscrito com sucesso!",
+        "YOU_WILL_GET_NOTIFICATION": "Em breve, voc\u00ea receber\u00e1 uma notifica\u00e7\u00e3o por e-mail e, opcionalmente, por SMS."
+    },
+    "SUBSCRIPTION": {
+        "AMOUNT": "Valor:",
+        "BACK": "Voltar",
+        "BOOK": "Reserve",
+        "DESCRIPTION": "Descri\u00e7\u00e3o:",
+        "DR": "Dr.",
+        "EMAIL": "Email:",
+        "FIRST_NAME": "Primeiro Nome:",
+        "FROM": "De:",
+        "LAST_NAME": "Ultimo Nome:",
+        "LET_S_BOOK_IT": "Vamos reservar!",
+        "MISS": "Menina",
+        "MR": "Sr.",
+        "MRS": "Sr\u00aa.",
+        "NOTE": "Nota:",
+        "PHONE": "Telefone:",
+        "TO": "Para:",
+        "TITLE": "Titulo:"
+    }
+}
