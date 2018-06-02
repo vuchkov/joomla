@@ -17,9 +17,8 @@ defined('_JEXEC') or die; ?>
 
   <script>
     window.sagendaIntegration = 'WordPress';
-    window.sagendaToken = '<?php echo $sagenda_token ;?>';
     window.baseUrl = 'https://sagenda.net/api/v3/';
-    // window.sagendaBearerToken = '{{bearerToken}}';
+    window.sagendaBearerToken = '<?php echo $sagendaBearerToken ;?>';
     window.sagendaWeekStartsOn = '1';
     window.sagendaLanguageCultureShortName = 'en';
     window.sagendaDateFormat = 'DD MMMM YYYY';
