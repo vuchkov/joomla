@@ -5,18 +5,11 @@
  * @package    Sagenda.Calendar
  * @subpackage Modules
  * @link https://www.sagenda.com
+ * @license    GNU/GPL, see LICENSE.php
  */
 class ModSagendaCalendarHelper
 {
     /**
-     * Retrieves the hello message
-     *
-     * @param   array  $params An object containing the module parameters
-     *
-     * @access public
+     *  Will be used later on.
      */    
-    public static function getHello($params)
-    {
-        return 'Hello, World!';
-    }
 }

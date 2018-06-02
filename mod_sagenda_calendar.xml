@@ -11,7 +11,27 @@
         <filename>helper.php</filename>
         <filename>tmpl/default.php</filename>
         <filename>tmpl/index.html</filename>
+        <filename>tmpl/bootstrap-theme.css.map</filename>
+        <filename>tmpl/bootstrap-theme-wrapper.css</filename>
+        <filename>tmpl/bootstrap-wrapper.css</filename>
+        <filename>tmpl/main.js</filename>
+        <filename>tmpl/polyfills.js</filename>
+        <filename>tmpl/runtime.js</filename>
+        <filename>tmpl/styles.css</filename>
+        <folder>tmpl/assets/</folder>
     </files>
     <config>
+        <fields name="params">
+            <fieldset name="basic">
+                <field
+                    name="sagenda_token"
+                    type="text"
+                    label="Token"
+                    description=""
+                    size="60"
+                    default=""
+                />
+            </fieldset>
+        </fields>
     </config>
 </extension>
