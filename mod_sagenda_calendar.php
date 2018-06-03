@@ -15,9 +15,14 @@ require_once dirname(__FILE__) . '/helper.php';
 
 $module_path = JURI::base().'modules/'.$module->module.'/tmpl';
 
+// TOKEN
 $sagenda_token = $params->get('sagenda_token', '');
 $modSagendaCalendarHelper = new ModSagendaCalendarHelper();
 $sagendaBearerToken = $modSagendaCalendarHelper->convertAPITokenToBearerToken($sagenda_token);
+
+// LOCALES
+$lang = JFactory::getLanguage();
+$locale = str_replace("-", "_",$lang->getTag());
 
 $document = JFactory::getDocument();
 $document->addStyleSheet($module_path.'/styles.css');

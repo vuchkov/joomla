@@ -20,7 +20,7 @@ defined('_JEXEC') or die; ?>
     window.baseUrl = 'https://sagenda.net/api/v3/';
     window.sagendaBearerToken = '<?php echo $sagendaBearerToken ;?>';
     window.sagendaWeekStartsOn = '1';
-    window.sagendaLanguageCultureShortName = 'en';
+    window.sagendaLanguageCultureShortName = '<?php echo $locale ;?>';
     window.sagendaDateFormat = 'DD MMMM YYYY';
     window.sagendaTimeFormat = 'HH:mm';
     window.sagendaAngularPath = 'http://localhost:8888/joomla/modules/mod_sagenda_calendar/tmpl/';
