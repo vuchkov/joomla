@@ -7,12 +7,25 @@
 		"TODAY": "Today",
 		"WEEK": "Week"
 	},
+	"ERROR": {
+		"NO_BOOKABLE_ITEM": "Please create at least a bookable item in your Sagenda's account!",
+		"NO_TOKEN": "Please copy your authentication code (token) from your Sagenda's account!"
+	},
+	"EVENT": {
+		"ALL_DAY": "All Day",
+		"DATE": "Date"
+	},
 	"MESSAGE": {
+		"NO_EVENT": "No event found for the given period!",
 		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Please enter a valid email address!",
 		"PLEASE_SELECT": "Please select...",
 		"VALUE_IS_REQUIRED": "Value is required!",
 		"YOU_HAVE_SUCCESSFULLY_SUBSCRIBE": "You have successfully subscribed!",
 		"YOU_WILL_GET_NOTIFICATION": "You will soon get a notification by email and optionally by SMS."
+	},
+	"STANDARD": {
+		"LINK": "Link",
+		"OK": "OK"
 	},
 	"SUBSCRIPTION": {
 		"AMOUNT": "Amount:",

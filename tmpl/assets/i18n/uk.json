@@ -1,0 +1,38 @@
+{
+	"CALENDAR": {
+		"DAY": "День",
+		"MONTH": "Місяць",
+		"NEXT": "Далі",
+		"PREVIOUS": "Попередній",
+		"TODAY": "Сьогодні",
+		"WEEK": "Тиждень"
+	},
+	"MESSAGE": {
+		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Будь ласка, введіть дійсну адресу електронної пошти!",
+		"VALUE_IS_REQUIRED": "Поле обов'язкове!",
+		"YOU_HAVE_SUCCESSFULLY_SUBSCRIBE": "Ви успішно підписалися!",
+		"YOU_WILL_GET_NOTIFICATION": "Незабаром ви отримаєте сповіщення електронною поштою та додатково через SMS."
+	},
+	"STANDARD": {
+		"OK": "OK"
+	},
+	"SUBSCRIPTION": {
+		"AMOUNT": "Сума:",
+		"BACK": "Назад",
+		"BOOK": "Бронювання",
+		"DESCRIPTION": "Опис:",
+		"DR": "Доктор",
+		"EMAIL": "Адреса електронної пошти:\n",
+		"FIRST_NAME": "Ім'я:\n",
+		"FROM": "Від:",
+		"LAST_NAME": "Прізвище:\n",
+		"LET_S_BOOK_IT": "Давайте забронюємо!",
+		"MISS": "Міс\n",
+		"MR": "Містер\n",
+		"MRS": "Пані\n",
+		"NOTE": "Примітка:\n",
+		"PHONE": "Телефон:",
+		"TITLE": "Назва:",
+		"TO": "До:"
+	}
+}

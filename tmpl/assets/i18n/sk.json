@@ -1,0 +1,35 @@
+{
+	"CALENDAR": {
+		"DAY": "Deň",
+		"MONTH": "Mesiac",
+		"NEXT": "Nasledujúce",
+		"PREVIOUS": "Predchadzajúce",
+		"TODAY": "Dnes",
+		"WEEK": "Týždeň"
+	},
+	"MESSAGE": {
+		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Prosím zadajte platnú emailovú adresu!",
+		"VALUE_IS_REQUIRED": "Hodnota je požadovaná!",
+		"YOU_HAVE_SUCCESSFULLY_SUBSCRIBE": "Úspešne ste zaregistrovali!",
+		"YOU_WILL_GET_NOTIFICATION": "Čoskoro dostanete upozornenie prostredníctvom e-mailu a voliteľne prostredníctvom SMS."
+	},
+	"SUBSCRIPTION": {
+		"AMOUNT": "Suma:",
+		"BACK": "Späť",
+		"BOOK": "Objednať",
+		"DESCRIPTION": "Popis:",
+		"DR": "Dr.",
+		"EMAIL": "E-mailová adresa:",
+		"FIRST_NAME": "Meno:",
+		"FROM": "Od:",
+		"LAST_NAME": "Priezvisko:",
+		"LET_S_BOOK_IT": "Zarezervovať to!",
+		"MISS": "Slečna",
+		"MR": "Pán",
+		"MRS": "Pani",
+		"NOTE": "Poznámka:",
+		"PHONE": "Telefón:",
+		"TITLE": "Nadpis:",
+		"TO": "Komu:"
+	}
+}

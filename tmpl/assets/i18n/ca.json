@@ -1,0 +1,47 @@
+{
+    "CALENDAR": {
+        "PREVIOUS": "Previ",
+        "DAY": "Dia",
+        "NEXT": "Seg\u00fcent",
+        "MONTH": "Mes",
+        "WEEK": "Setmana",
+        "TODAY": "Avui"
+    },
+    "MESSAGE": {
+        "PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Per favor, escriu una adre\u00e7a de correu electr\u00f2nic correcta.",
+        "VALUE_IS_REQUIRED": "Un valor \u00e9s obligatori.",
+        "YOU_HAVE_SUCCESSFULLY_SUBSCRIBE": "T'has subscrit exitosament.",
+        "YOU_WILL_GET_NOTIFICATION": "Aviat rebr\u00e0s una notificaci\u00f3 per correu electr\u00f2nic i opcionalment per SMS.",
+        "PLEASE_SELECT": "Per favor escull..."
+    },
+    "SUBSCRIPTION": {
+        "AMOUNT": "Quantitat:",
+        "BACK": "Enrere",
+        "BOOK": "Reserva",
+        "DESCRIPTION": "Descripci\u00f3:",
+        "DR": "Dr.",
+        "EMAIL": "Adre\u00e7a de correu-e:",
+        "FIRST_NAME": "Nom:",
+        "FROM": "De:",
+        "LAST_NAME": "Cognom:",
+        "LET_S_BOOK_IT": "Reserva-ho!",
+        "MISS": "Sra.",
+        "MR": "Sr.",
+        "MRS": "Sra.",
+        "NOTE": "Nota:",
+        "PHONE": "Tel\u00e8fon:",
+        "TO": "A:",
+        "TITLE": "T\u00edtol:"
+    },
+    "EVENT": {
+        "ALL_DAY": "Tot el dia",
+        "DATE": "Data"
+    },
+    "ERROR": {
+        "NO_BOOKABLE_ITEM": "Per favor, crea com a m\u00ednim un element reservable al teu compte de sagenda."
+    },
+    "STANDARD": {
+        "LINK": "Enlla\u00e7",
+        "OK": "D'acord"
+    }
+}

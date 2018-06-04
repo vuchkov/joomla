@@ -1,30 +1,49 @@
 {
-	"CALENDAR.PREVIOUS": "Précédent",
-	"CALENDAR.DAY": "Jour",
-	"CALENDAR.NEXT": "Suivant",
-	"CALENDAR.MONTH": "Mois",
-	"CALENDAR.WEEK": "Semaine",
-	"CALENDAR.TODAY": "Aujourd'hui",
-	"MESSAGE.PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Merci d'entrer une adresse email valide!",
-	"MESSAGE.PLEASE_SELECT": "Merci de sélectionner...",
-	"MESSAGE.VALUE_IS_REQUIRED": "Une valeur est obligatoire!",
-	"MESSAGE.YOU_HAVE_SUCCESSFULLY_SUBSCRIBE": "Vous vous êtes inscrit avec succès!",
-	"MESSAGE.YOU_WILL_GET_NOTIFICATION": "Vous allez bientôt recevoir une notification par email et optionnellement par SMS.",
-	"SUBSCRIPTION.AMOUNT": "Montant:",
-	"SUBSCRIPTION.BACK": "Retour",
-	"SUBSCRIPTION.BOOK": "Réserver",
-	"SUBSCRIPTION.DESCRIPTION": "Description:",
-	"SUBSCRIPTION.DR": "Dr.",
-	"SUBSCRIPTION.EMAIL": "Adresse Email:",
-	"SUBSCRIPTION.FIRST_NAME": "Prénom:",
-	"SUBSCRIPTION.FROM": "De:",
-	"SUBSCRIPTION.LAST_NAME": "Nom:",
-	"SUBSCRIPTION.LET_S_BOOK_IT": "Réservons!",
-	"SUBSCRIPTION.MISS": "Mlle",
-	"SUBSCRIPTION.MR": "M.",
-	"SUBSCRIPTION.MRS": "Mme.",
-	"SUBSCRIPTION.NOTE": "Note:",
-	"SUBSCRIPTION.PHONE": "Téléphone:",
-	"SUBSCRIPTION.TO": "A:",
-	"SUBSCRIPTION.TITLE": "Titre:"
+	"CALENDAR": {
+		"DAY": "Jour",
+		"MONTH": "Mois",
+		"NEXT": "Suivant",
+		"PREVIOUS": "Précédent",
+		"TODAY": "Aujourd'hui",
+		"WEEK": "Semaine"
+	},
+	"ERROR": {
+		"NO_BOOKABLE_ITEM": "Merci de créer au moins un élément réservable dans votre compte Sagenda!",
+		"NO_TOKEN": "Merci de copier votre code d'authentificaiton (jeton) sagenda depuis votre compte!"
+	},
+	"EVENT": {
+		"ALL_DAY": "Toute la journée",
+		"DATE": "Date"
+	},
+	"MESSAGE": {
+		"NO_EVENT": "Il ne reste pas d'évènement pour la période donnée.",
+		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Merci d'entrer une adresse email valide!",
+		"PLEASE_SELECT": "Merci de sélectionner...",
+		"VALUE_IS_REQUIRED": "Une valeur est obligatoire!",
+		"YOU_HAVE_SUCCESSFULLY_SUBSCRIBE": "Vous vous êtes inscrit avec succès!",
+		"YOU_WILL_GET_NOTIFICATION": "Vous allez bientôt recevoir une notification par email et optionnellement par SMS."
+	},
+	"STANDARD": {
+		"LINK": "Lien",
+		"OK": "OK"
+	},
+	"SUBSCRIPTION": {
+		"AMOUNT": "Montant:",
+		"BACK": "Retour",
+		"BOOK": "Réserver",
+		"DESCRIPTION": "Description:",
+		"DR": "Dr.",
+		"EMAIL": "Adresse Email:",
+		"FIRST_NAME": "Prénom:",
+		"FROM": "De:",
+		"LAST_NAME": "Nom:",
+		"LET_S_BOOK_IT": "Réservons!",
+		"MISS": "Mlle",
+		"MR": "M.",
+		"MRS": "Mme.",
+		"NOTE": "Note:",
+		"PHONE": "Téléphone:",
+		"TITLE": "Titre:",
+		"TO": "A:"
+	}
 }

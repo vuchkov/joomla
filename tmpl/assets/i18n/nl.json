@@ -1,0 +1,49 @@
+{
+	"CALENDAR": {
+		"PREVIOUS": "Vorige",
+		"DAY": "Dag",
+		"NEXT": "Volgende",
+		"MONTH": "Maand",
+		"WEEK": "Week",
+		"TODAY": "Vandaag"
+	},
+	"MESSAGE": {
+		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Graag een geldig e-mailadres invullen!",
+		"VALUE_IS_REQUIRED": "Veld verplicht invullen!",
+		"YOU_HAVE_SUCCESSFULLY_SUBSCRIBE": "U heeft zich succesvol aangemeld!",
+		"YOU_WILL_GET_NOTIFICATION": "U zult spoedig een bevestiging krijgen via e-mail.",
+		"PLEASE_SELECT": "Selecteer alstublieft...",
+		"NO_EVENT": "Er is geen evenement beschikbaar op het aangegeven tijdstip."
+	},
+	"SUBSCRIPTION": {
+		"AMOUNT": "Bedrag:",
+		"BACK": "Terug",
+		"BOOK": "Boek",
+		"DESCRIPTION": "Beschrijving:",
+		"DR": "Dr.",
+		"EMAIL": "E-mailadres:",
+		"FIRST_NAME": "Voornaam:",
+		"FROM": "Van:",
+		"LAST_NAME": "Achternaam:",
+		"LET_S_BOOK_IT": "Reserveer nu!",
+		"MISS": "Juffrouw",
+		"MR": "De heer",
+		"MRS": "Mevrouw",
+		"NOTE": "Opmerking:",
+		"PHONE": "Telefoonnummer:",
+		"TO": "Aan:",
+		"TITLE": "Aanhef:"
+	},
+	"EVENT": {
+		"ALL_DAY": "Hele dag",
+		"DATE": "Datum"
+	},
+	"ERROR": {
+		"NO_BOOKABLE_ITEM": "Maak alstublieft minimaal één boekbaar item in uw sagenda's account!",
+		"NO_TOKEN": "Kopieer uw sagenda's authenticatie code (token) van uw account!"
+	},
+	"STANDARD": {
+		"LINK": "Link",
+		"OK": "Oke"
+	}
+}
