@@ -2,7 +2,7 @@
 <extension type="module" version="3.8.8" client="site" method="upgrade">
     <name>Sagenda Calendar</name>
     <author>Iteration.info SARL</author>
-    <version>0.1.0</version>
+    <version>0.2.0</version>
     <description>A free Booking Calendar module</description>
     <files>
         <filename>mod_sagenda_calendar.xml</filename>
@@ -15,11 +15,11 @@
         <filename>tmpl/bootstrap-theme.css.map</filename>
         <filename>tmpl/bootstrap-theme-wrapper.css</filename>
         <filename>tmpl/bootstrap-wrapper.css</filename>
-        <filename>tmpl/main.js</filename>
-        <filename>tmpl/polyfills.js</filename>
-        <filename>tmpl/runtime.js</filename>
-        <filename>tmpl/styles.css</filename>
-        <folder>tmpl/assets/</folder>
+        <filename>tmpl/angular/main.js</filename>
+        <filename>tmpl/angular/polyfills.js</filename>
+        <filename>tmpl/angular/runtime.js</filename>
+        <filename>tmpl/angular/styles.css</filename>
+        <folder>tmpl/angular/assets/</folder>
     </files>
     <config>
         <fields name="params">

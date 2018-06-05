@@ -23,10 +23,10 @@ defined('_JEXEC') or die; ?>
     window.sagendaLanguageCultureShortName = '<?php echo $locale ;?>';
     window.sagendaDateFormat = 'DD MMMM YYYY';
     window.sagendaTimeFormat = 'HH:mm';
-    window.sagendaAngularPath = 'http://localhost:8888/joomla/modules/mod_sagenda_calendar/tmpl/';
+    window.sagendaAngularPath = '<?php echo $module_path; ?>/angular/';
   </script>
 
-  <script type="text/javascript" src="<?php echo $module_path; ?>/runtime.js"></script>
-  <script type="text/javascript" src="<?php echo $module_path; ?>/main.js"></script>
-  <script type="text/javascript" src="<?php echo $module_path; ?>/polyfills.js"></script>
+  <script type="text/javascript" src="<?php echo $module_path; ?>/angular/runtime.js"></script>
+  <script type="text/javascript" src="<?php echo $module_path; ?>/angular/main.js"></script>
+  <script type="text/javascript" src="<?php echo $module_path; ?>/angular/polyfills.js"></script>
 </div>

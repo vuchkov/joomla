@@ -25,7 +25,7 @@ $lang = JFactory::getLanguage();
 $locale = str_replace("-", "_",$lang->getTag());
 
 $document = JFactory::getDocument();
-$document->addStyleSheet($module_path.'/styles.css');
+$document->addStyleSheet($module_path.'/angular/styles.css');
 $document->addStyleSheet('https://unpkg.com/@angular/material@6.2.0/prebuilt-themes/indigo-pink.css');
 $document->addStyleSheet($module_path.'/bootstrap-wrapper.css');
 
