@@ -19,10 +19,10 @@ defined('_JEXEC') or die; ?>
     window.sagendaIntegration = 'WordPress';
     window.baseUrl = 'https://sagenda.net/api/v3/';
     window.sagendaBearerToken = '<?php echo $sagendaBearerToken ;?>';
-    window.sagendaWeekStartsOn = '1';
+    window.sagendaWeekStartsOn = '<?php echo $sagendaWeekStartsOn ;?>';
     window.sagendaLanguageCultureShortName = '<?php echo $locale ;?>';
-    window.sagendaDateFormat = 'DD MMMM YYYY';
-    window.sagendaTimeFormat = 'HH:mm';
+    window.sagendaDateFormat = '<?php echo $sagendaDateFormat ;?>';  
+    window.sagendaTimeFormat = '<?php echo $sagendaTimeFormat ;?>'; 
     window.sagendaAngularPath = '<?php echo $module_path; ?>/angular/';
   </script>
 

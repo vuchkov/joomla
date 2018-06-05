@@ -25,12 +25,42 @@
         <fields name="params">
             <fieldset name="basic">
                 <field
-                    name="sagenda_token"
+                    name="sagendaToken"
                     type="text"
                     label="Token"
                     description=""
                     size="60"
                     default=""
+                />
+            </fieldset>
+            <fieldset name="basic">
+                <field
+                    name="sagendaWeekStartsOn"
+                    type="text"
+                    label="Week start on"
+                    description="Set which day your week: 0 for Sunday, 1 for Monday."
+                    size="60"
+                    default="1"
+                />
+            </fieldset>
+            <fieldset name="basic">
+                <field
+                    name="sagendaDateFormat"
+                    type="text"
+                    label="Date format"
+                    description="Define the format of date."
+                    size="60"
+                    default="DD MMMM YYYY"
+                />
+            </fieldset>
+                        <fieldset name="basic">
+                <field
+                    name="sagendaTimeFormat"
+                    type="text"
+                    label="Time format"
+                    description="Define the format of time."
+                    size="60"
+                    default="HH:mm"
                 />
             </fieldset>
         </fields>
