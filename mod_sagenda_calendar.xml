@@ -2,8 +2,11 @@
 <extension type="module" version="3.8.8" client="site" method="upgrade">
     <name>Sagenda Calendar</name>
     <author>Iteration.info SARL</author>
-    <version>0.2.0</version>
+    <version>0.3.0</version>
     <description>A free Booking Calendar module</description>
+    <updateservers>
+	    <server type="extension" name="mod_sagenda_calendar" priority="1">https://github.com/Sagenda/joomla/blob/master/mod_sagenda_calendar_update.xml</server>
+    </updateservers>
     <files>
         <filename>mod_sagenda_calendar.xml</filename>
         <filename module="mod_sagenda_calendar">mod_sagenda_calendar.php</filename>
