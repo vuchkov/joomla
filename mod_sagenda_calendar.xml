@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <extension type="module" version="3.8.8" client="site" method="upgrade">
-    <name>Sagenda Calendar</name>
+    <name>Sagenda booking and scheduling calendar</name>
     <author>Iteration.info SARL</author>
-    <version>0.2.0</version>
-    <description>A free Booking Calendar module</description>
+    <version>0.3.0</version>
+    <description>A Booking Calendar for your Joomla Website</description>
     <files>
         <filename>mod_sagenda_calendar.xml</filename>
         <filename module="mod_sagenda_calendar">mod_sagenda_calendar.php</filename>
