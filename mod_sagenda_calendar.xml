@@ -11,6 +11,11 @@
         <filename>helper.php</filename>
         <filename>tmpl/default.php</filename>
         <filename>mashape/unirest-php/src/Unirest.php</filename>
+        <filename>mashape/unirest-php/src/Unirest/Exception.php</filename>
+        <filename>mashape/unirest-php/src/Unirest/Method.php</filename>
+        <filename>mashape/unirest-php/src/Unirest/Request.php</filename>
+        <filename>mashape/unirest-php/src/Unirest/Response.php</filename>
+        <filename>mashape/unirest-php/src/Unirest/Request/Body.php</filename>
         <filename>tmpl/index.html</filename>
         <filename>tmpl/bootstrap-theme.css.map</filename>
         <filename>tmpl/bootstrap-theme-wrapper.css</filename>
