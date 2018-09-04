@@ -8,6 +8,7 @@
         <filename>mod_sagenda_calendar.xml</filename>
         <filename module="mod_sagenda_calendar">mod_sagenda_calendar.php</filename>
         <filename>index.html</filename>
+        <filename>mod_sagenda_calendar_update.xml</filename>
         <filename>helper.php</filename>
         <filename>tmpl/default.php</filename>
         <filename>mashape/unirest-php/src/Unirest.php</filename>
