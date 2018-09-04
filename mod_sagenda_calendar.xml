@@ -6,6 +6,7 @@
     <description>A Booking Calendar for your Joomla Website</description>
     <files>
         <filename>mod_sagenda_calendar.xml</filename>
+        <filename>mod_sagenda_calendar_update.xml</filename>
         <filename module="mod_sagenda_calendar">mod_sagenda_calendar.php</filename>
         <filename>index.html</filename>
         <filename>helper.php</filename>
