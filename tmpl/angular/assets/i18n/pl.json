@@ -1,0 +1,56 @@
+{
+    "CALENDAR": {
+        "DAY": "Dzie\u0144",
+        "MONTH": "Miesi\u0105c",
+        "NEXT": "Nast\u0119pny",
+        "PREVIOUS": "Poprzedni",
+        "TODAY": "Dzi\u015b",
+        "WEEK": "Tydzie\u0144"
+    },
+    "ERROR": {
+        "NO_BOOKABLE_ITEM": "Prosz\u0119 stworzy\u0107 przynajmniej jeden obiekt w Sagenda",
+        "NO_TOKEN": "Prosz\u0119 skopiowa\u0107 sw\u00f3j kod autentykacyjny (token) z konta Sagenda!"
+    },
+    "EVENT": {
+        "ALL_DAY": "Wszystkie dni",
+        "DATE": "Data"
+    },
+    "MULTIPLE": {
+        "SELECTED_EVENTS": "Wybierz wydarzenia",
+        "CLEAR_SELECTION": "Czyszczenie"
+    },
+    "MESSAGE": {
+        "DISABLE_MULTIPLE_SELECTION": "Wy\u0142\u0105cz wielokrotn\u0105 rezerwacj\u0119",
+        "ENABLE_MULTIPLE_SELECTION": "W\u0142\u0105cz wielokrotn\u0105 rezerwacj\u0119",
+        "NO_EVENT": "Nie ma \u017cadnej rezerwacji dla tego okresu!",
+        "PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Prosz\u0119 poda\u0107 poprawny adres e-mail!",
+        "PLEASE_SELECT": "Wybierz ...",
+        "VALUE_IS_REQUIRED": "Wymagane podanie warto\u015bci!",
+        "YOU_HAVE_SUCCESSFULLY_BOOKED": "Zosta\u0142e\u015b zapisany!",
+        "YOU_WILL_GET_NOTIFICATION": "Wkr\u00f3tce otrzymasz powiadomienie poprzez email lub opcjonalnie przez SMS."
+    },
+    "STANDARD": {
+        "LINK": "\u0141\u0105cze",
+        "OK": "OK"
+    },
+    "SUBSCRIPTION": {
+        "AMOUNT": "Ilo\u015b\u0107:",
+        "BACK": "Wstecz",
+        "BOOK": "Rezerwacja",
+        "DESCRIPTION": "Opis:",
+        "DR": "Dr.",
+        "EMAIL": "Adres email:",
+        "FIRST_NAME": "Imi\u0119:",
+        "FROM": "Od:",
+        "LAST_NAME": "Nazwisko:",
+        "LET_S_BOOK_IT": "Zarezerwujmy!",
+        "MISS": "Panna",
+        "MR": "Pan",
+        "MRS": "Pani",
+        "NOTE": "Notatka:",
+        "PHONE": "Telefon:",
+        "TITLE": "Tytu\u0142:",
+        "TO": "Do:",
+        "PAYMENT_MESSAGE": "Zostaniesz przekierowany do PayPal, aby doko\u0144czy\u0107 p\u0142atno\u015b\u0107 i rezerwacj\u0119"
+    }
+}

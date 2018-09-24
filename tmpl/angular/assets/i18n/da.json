@@ -1,33 +1,16 @@
 {
-    "CALENDAR": {
-        "DAY": "Dag",
-        "MONTH": "M\u00e5ned",
-        "NEXT": "N\u00e6ste",
-        "PREVIOUS": "Forrige",
-        "TODAY": "I dag",
-        "WEEK": "Uge"
-    },
-    "ERROR": {
-        "NO_BOOKABLE_ITEM": "Opret venligst mindst 1 bookable item i din Sagenda konto",
-        "NO_TOKEN": "Kopier venligst din authentication kode (token) fra din Sagenda konto"
-    },
-    "EVENT": {
-        "ALL_DAY": "Hele dagen",
-        "DATE": "Dato"
-    },
     "MESSAGE": {
+        "DISABLE_MULTIPLE_SELECTION": "Disable multiple selection",
+        "ENABLE_MULTIPLE_SELECTION": "Enable multiple selection",
         "NO_EVENT": "Ingen begivenheder i den givne periode",
         "PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Indtast venligst en valid e-mailadresse",
         "PLEASE_SELECT": "V\u00e6lg venligst...",
         "VALUE_IS_REQUIRED": "Skal udfyldes",
-        "YOU_HAVE_SUCCESSFULLY_SUBSCRIBE": "Du er nu registreret!",
+        "YOU_HAVE_SUCCESSFULLY_BOOKED": "Du er nu registreret!",
         "YOU_WILL_GET_NOTIFICATION": "Du vil snart modtage en notifikation via e-mail og muligvis ogs\u00e5 pr sms"
     },
-    "STANDARD": {
-        "LINK": "Link",
-        "OK": "OK"
-    },
     "SUBSCRIPTION": {
+        "PAYMENT_MESSAGE": "You will be redirected to the paypal website to complete your payment and booking",
         "AMOUNT": "Bel\u00f8b:",
         "BACK": "Tilbage",
         "BOOK": "Book",
@@ -45,5 +28,25 @@
         "PHONE": "Telefon:",
         "TITLE": "Overskrift:",
         "TO": "Til:"
+    },
+    "CALENDAR": {
+        "DAY": "Dag",
+        "MONTH": "M\u00e5ned",
+        "NEXT": "N\u00e6ste",
+        "PREVIOUS": "Forrige",
+        "TODAY": "I dag",
+        "WEEK": "Uge"
+    },
+    "ERROR": {
+        "NO_BOOKABLE_ITEM": "Opret venligst mindst 1 bookable item i din Sagenda konto",
+        "NO_TOKEN": "Kopier venligst din authentication kode (token) fra din Sagenda konto"
+    },
+    "EVENT": {
+        "ALL_DAY": "Hele dagen",
+        "DATE": "Dato"
+    },
+    "STANDARD": {
+        "LINK": "Link",
+        "OK": "OK"
     }
 }

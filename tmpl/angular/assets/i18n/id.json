@@ -1,0 +1,57 @@
+{
+    "MESSAGE": {
+        "YOU_HAVE_SUCCESSFULLY_BOOKED": "Kamu telah berhasil didaftarkan!",
+        "DISABLE_MULTIPLE_SELECTION": "Non aktifkan pemilihan multipel",
+        "ENABLE_MULTIPLE_SELECTION": "Aktifkan pemilihan multipel",
+        "NO_EVENT": "Tidak ada event pada jangka waktu yang dipilih!",
+        "PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Masukkan alamat email dengan benar!",
+        "PLEASE_SELECT": "Silahkan pilih...",
+        "VALUE_IS_REQUIRED": "Dibutuhkan nilai!",
+        "YOU_HAVE_SUCCESSFULLY_SUBSCRIBE": "Kamu telah berhasil didaftarkan!",
+        "YOU_WILL_GET_NOTIFICATION": "Kamu akan menerima pemberitahuan melalui email dan mungkin juga SMS"
+    },
+    "CALENDAR": {
+        "DAY": "Hari",
+        "MONTH": "Bulan ",
+        "NEXT": "Lanjut",
+        "PREVIOUS": "Sebelumnya",
+        "TODAY": "Hari ini",
+        "WEEK": "Minggu"
+    },
+    "ERROR": {
+        "NO_BOOKABLE_ITEM": "Silahkan buat minimal 1 item reservasi di akun Sagenda mu!",
+        "NO_TOKEN": "Masukkan kode autentikasi (token) dari akun Sagenda mu!"
+    },
+    "EVENT": {
+        "ALL_DAY": "Seharian",
+        "DATE": "Tanggal"
+    },
+    "MULTIPLE": {
+        "SELECTED_EVENTS": "Event yang dipilih",
+        "CLEAR_SELECTION": "Hapus pilihan"
+    },
+    "STANDARD": {
+        "LINK": "Tautan",
+        "OK": "Ya"
+    },
+    "SUBSCRIPTION": {
+        "AMOUNT": "Harga:",
+        "BACK": "Kembali",
+        "BOOK": "Reservasi",
+        "DESCRIPTION": "Penjelasan:",
+        "DR": "Dr.",
+        "EMAIL": "Alamat email:",
+        "FIRST_NAME": "Nama depan:",
+        "FROM": "Dari:",
+        "LAST_NAME": "Nama belakang:",
+        "LET_S_BOOK_IT": "Mari buat reservasi!",
+        "MISS": "Nn.",
+        "MR": "Tn.",
+        "MRS": "Ny.",
+        "NOTE": "Catatan:",
+        "PHONE": "Telepon:",
+        "TITLE": "Titel:",
+        "TO": "Kepada:",
+        "PAYMENT_MESSAGE": "Anda akan dialihkan ke web paypal untuk menyelesaikan pembayaran dan reservasimu"
+    }
+}

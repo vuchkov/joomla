@@ -10,7 +10,7 @@
     "MESSAGE": {
         "PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Per favor, escriu una adre\u00e7a de correu electr\u00f2nic correcta.",
         "VALUE_IS_REQUIRED": "Un valor \u00e9s obligatori.",
-        "YOU_HAVE_SUCCESSFULLY_SUBSCRIBE": "T'has subscrit exitosament.",
+        "YOU_HAVE_SUCCESSFULLY_BOOKED": "T'has subscrit exitosament.",
         "YOU_WILL_GET_NOTIFICATION": "Aviat rebr\u00e0s una notificaci\u00f3 per correu electr\u00f2nic i opcionalment per SMS.",
         "PLEASE_SELECT": "Per favor escull..."
     },

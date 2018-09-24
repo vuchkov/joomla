@@ -9,8 +9,9 @@
 	},
 	"MESSAGE": {
 		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Vă rugăm să introduceţi o adresă de email validă!",
+		"PLEASE_SELECT": "",
 		"VALUE_IS_REQUIRED": "Vă rugăm să introduceţi o valoare!",
-		"YOU_HAVE_SUCCESSFULLY_SUBSCRIBE": "V-ați abonat cu succes!",
+		"YOU_HAVE_SUCCESSFULLY_BOOKED": "V-ați abonat cu succes!",
 		"YOU_WILL_GET_NOTIFICATION": "Veţi primi în curând o notificare prin email sau opțional prin SMS."
 	},
 	"SUBSCRIPTION": {

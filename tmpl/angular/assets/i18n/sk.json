@@ -10,7 +10,7 @@
 	"MESSAGE": {
 		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Prosím zadajte platnú emailovú adresu!",
 		"VALUE_IS_REQUIRED": "Hodnota je požadovaná!",
-		"YOU_HAVE_SUCCESSFULLY_SUBSCRIBE": "Úspešne ste zaregistrovali!",
+		"YOU_HAVE_SUCCESSFULLY_BOOKED": "Úspešne ste zaregistrovali!",
 		"YOU_WILL_GET_NOTIFICATION": "Čoskoro dostanete upozornenie prostredníctvom e-mailu a voliteľne prostredníctvom SMS."
 	},
 	"SUBSCRIPTION": {

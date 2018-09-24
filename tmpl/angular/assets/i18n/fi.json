@@ -1,47 +1,56 @@
 {
-	"CALENDAR": {
-		"DAY": "Päivä",
-		"MONTH": "Kuukausi",
-		"NEXT": "Seuraava",
-		"PREVIOUS": "Edellinen",
-		"TODAY": "Tänään",
-		"WEEK": "Viikko"
-	},
-	"ERROR": {
-		"NO_BOOKABLE_ITEM": "Luo ainakin yksi varattava tuote sagenda tiliisi!",
-	},
-	"EVENT": {
-		"ALL_DAY": "Koko päivä",
-		"DATE": "Päivämäärä"
-	},
-	"MESSAGE": {
-		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Sähköpostiosoite ei kelpaa!",
-		"PLEASE_SELECT": "Valitse...",
-		"VALUE_IS_REQUIRED": "Pakollinen tieto!",
-		"YOU_HAVE_SUCCESSFULLY_SUBSCRIBE": "Varaus onnistui!",
-		"YOU_WILL_GET_NOTIFICATION": "Saat pian vahvistuksen sähköpostilla ja tekstiviestillä (mikäli palvelu käytössä)"
-	},
-	"STANDARD": {
-		"LINK": "Linkki",
-		"OK": "OK"
-	},
-	"SUBSCRIPTION": {
-		"AMOUNT": "Määrä:",
-		"BACK": "Takaisin",
-		"BOOK": "Varaa",
-		"DESCRIPTION": "Lisätietoja:",
-		"DR": "Tri",
-		"EMAIL": "Sähköposti:",
-		"FIRST_NAME": "Etunimi:",
-		"FROM": "Alkaen:",
-		"LAST_NAME": "Sukunimi:",
-		"LET_S_BOOK_IT": "Varataan se!",
-		"MISS": "Nti",
-		"MR": "Hra",
-		"MRS": "Rva",
-		"NOTE": "Muistiinpano:",
-		"PHONE": "Puhelin:",
-		"TITLE": "Titteli:",
-		"TO": "Asti:"
-	}
+    "CALENDAR": {
+        "DAY": "P\u00e4iv\u00e4",
+        "MONTH": "Kuukausi",
+        "NEXT": "Seuraava",
+        "PREVIOUS": "Edellinen",
+        "TODAY": "T\u00e4n\u00e4\u00e4n",
+        "WEEK": "Viikko"
+    },
+    "ERROR": {
+        "NO_BOOKABLE_ITEM": "Luo ainakin yksi varattava tuote sagenda- tiliisi!",
+        "NO_TOKEN": "Kopioi aktivointikoodi Sagenga- tililt\u00e4si!"
+    },
+    "EVENT": {
+        "ALL_DAY": "Koko p\u00e4iv\u00e4",
+        "DATE": "P\u00e4iv\u00e4m\u00e4\u00e4r\u00e4"
+    },
+    "MULTIPLE": {
+        "SELECTED_EVENTS": "Valitut tapahtumat:",
+        "CLEAR_SELECTION": "Tyhjenn\u00e4 valinta"
+    },
+    "MESSAGE": {
+        "DISABLE_MULTIPLE_SELECTION": "Est\u00e4 useiden valinta",
+        "ENABLE_MULTIPLE_SELECTION": "Salli useiden valinta",
+        "NO_EVENT": "Ei tapahtumia annetulle aikav\u00e4lille",
+        "PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Sy\u00f6t\u00e4 kelvollinen s\u00e4hk\u00f6postiosoite!",
+        "PLEASE_SELECT": "Valitse...",
+        "VALUE_IS_REQUIRED": "Pakollinen tieto!",
+        "YOU_HAVE_SUCCESSFULLY_BOOKED": "Varaus onnistui!",
+        "YOU_WILL_GET_NOTIFICATION": "Saat pian ilmoituksen s\u00e4hk\u00f6postilla ja vaihtoehtoisesti tekstiviestitse."
+    },
+    "STANDARD": {
+        "LINK": "Linkki",
+        "OK": "OK"
+    },
+    "SUBSCRIPTION": {
+        "AMOUNT": "M\u00e4\u00e4r\u00e4:",
+        "BACK": "Takaisin",
+        "BOOK": "Varaa",
+        "DESCRIPTION": "Lis\u00e4tietoja:",
+        "DR": "Tri",
+        "EMAIL": "S\u00e4hk\u00f6posti:",
+        "FIRST_NAME": "Etunimi:",
+        "FROM": "Alkaen:",
+        "LAST_NAME": "Sukunimi:",
+        "LET_S_BOOK_IT": "Varataan se!",
+        "MISS": "Nti",
+        "MR": "Hra",
+        "MRS": "Rva",
+        "NOTE": "Muistiinpano:",
+        "PHONE": "Puhelin:",
+        "TITLE": "Otsikko:",
+        "TO": "Asti:",
+        "PAYMENT_MESSAGE": "Sinut ohjataan PayPalin verkkosivustoon suorittamaan maksusi ja varauksesi"
+    }
 }

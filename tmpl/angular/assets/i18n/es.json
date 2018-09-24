@@ -10,7 +10,7 @@
     "MESSAGE": {
         "PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "\u00a1Por favor, introduce una direcci\u00f3n de correo electr\u00f3nico v\u00e1lida!",
         "VALUE_IS_REQUIRED": "El campo es obligatorio.",
-        "YOU_HAVE_SUCCESSFULLY_SUBSCRIBE": "\u00a1Te has suscrito satisfactoriamente!",
+        "YOU_HAVE_SUCCESSFULLY_BOOKED": "\u00a1Te has suscrito satisfactoriamente!",
         "YOU_WILL_GET_NOTIFICATION": "Pronto recibir\u00e1 una notificaci\u00f3n por correo electr\u00f3nico y, opcionalmente, por SMS.",
         "PLEASE_SELECT": "Por favor selecciona..."
     },

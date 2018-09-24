@@ -15,12 +15,18 @@
 		"ALL_DAY": "Toute la journée",
 		"DATE": "Date"
 	},
+	"MULTIPLE": {
+		"SELECTED_EVENTS": "Evènement(s) sélectioné(s) :",
+		"CLEAR_SELECTION": "Effacer la sélection"
+	},
 	"MESSAGE": {
+		"DISABLE_MULTIPLE_SELECTION": "Désactiver la sélection multiple",
+		"ENABLE_MULTIPLE_SELECTION": "Activer la sélection multiple",
 		"NO_EVENT": "Il ne reste pas d'évènement pour la période donnée.",
 		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Merci d'entrer une adresse email valide!",
 		"PLEASE_SELECT": "Merci de sélectionner...",
 		"VALUE_IS_REQUIRED": "Une valeur est obligatoire!",
-		"YOU_HAVE_SUCCESSFULLY_SUBSCRIBE": "Vous vous êtes inscrit avec succès!",
+		"YOU_HAVE_SUCCESSFULLY_BOOKED": "Vous vous êtes inscrit avec succès!",
 		"YOU_WILL_GET_NOTIFICATION": "Vous allez bientôt recevoir une notification par email et optionnellement par SMS."
 	},
 	"STANDARD": {
@@ -44,6 +50,7 @@
 		"NOTE": "Note:",
 		"PHONE": "Téléphone:",
 		"TITLE": "Titre:",
-		"TO": "A:"
+		"TO": "A:",
+		"PAYMENT_MESSAGE": "Vous allez être redirigé vers PayPal pour compléter votre payment et votre réservation."
 	}
 }

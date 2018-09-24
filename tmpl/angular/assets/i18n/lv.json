@@ -1,0 +1,57 @@
+{
+    "MESSAGE": {
+        "YOU_HAVE_SUCCESSFULLY_BOOKED": "J\u016bs esat veiksm\u012bgi veicis rezerv\u0101ciju!",
+        "DISABLE_MULTIPLE_SELECTION": "Atsp\u0113jot vair\u0101ku vienumu atlasi",
+        "ENABLE_MULTIPLE_SELECTION": "Iesp\u0113jot vair\u0101ku vienumu atlasi",
+        "NO_EVENT": "Nor\u0101d\u012btajam periodam nav atrasts neviens notikums!",
+        "PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "L\u016bdzu, ievadiet der\u012bgo e-pasta adresi!",
+        "PLEASE_SELECT": "L\u016bdzu izvelties...",
+        "VALUE_IS_REQUIRED": "Nepiecie\u0161ams ievad\u012bt!",
+        "YOU_HAVE_SUCCESSFULLY_SUBSCRIBE": "J\u016bs esat veiksm\u012bgi abon\u0113ju\u0161i vienumu!",
+        "YOU_WILL_GET_NOTIFICATION": "Dr\u012bz J\u016bs sa\u0146emsiet pazi\u0146ojumu e-pasta un SMS (p\u0113c izv\u0113les)."
+    },
+    "CALENDAR": {
+        "DAY": "Diena",
+        "MONTH": "M\u0113nesis",
+        "NEXT": "N\u0101kamais",
+        "PREVIOUS": "Iepriek\u0161\u0113jais",
+        "TODAY": "\u0160odien",
+        "WEEK": "Ned\u0113\u013ca"
+    },
+    "ERROR": {
+        "NO_BOOKABLE_ITEM": "L\u016bdzu izveidojiet vismaz vienu rezerv\u0113jumu objektu J\u016bsu Sagenda's kont\u0101!",
+        "NO_TOKEN": "L\u016bdzu, kop\u0113jiet savu autentifik\u0101cijas kodu (mar\u0137ierier\u012bci) no J\u016bsu Sagenda konta!"
+    },
+    "EVENT": {
+        "ALL_DAY": "Visu dienu",
+        "DATE": "Datums"
+    },
+    "MULTIPLE": {
+        "SELECTED_EVENTS": "Atlas\u012btais (ie) notikums (-i):",
+        "CLEAR_SELECTION": "Not\u012br\u012bt atlasi"
+    },
+    "STANDARD": {
+        "LINK": "Saite",
+        "OK": "Labi"
+    },
+    "SUBSCRIPTION": {
+        "AMOUNT": "Apjoms:",
+        "BACK": "Atpaka\u013c",
+        "BOOK": "Rezerv\u0113t",
+        "DESCRIPTION": "Apraksts:",
+        "DR": "Doktors",
+        "EMAIL": "E-pasta adrese:",
+        "FIRST_NAME": "V\u0101rds:",
+        "FROM": "No:",
+        "LAST_NAME": "Uzv\u0101rds:",
+        "LET_S_BOOK_IT": "Rezerv\u0113t!",
+        "MISS": "Jaunkundze",
+        "MR": "Kungs",
+        "MRS": "Kundze",
+        "NOTE": "Piez\u012bme:",
+        "PHONE": "T\u0101lrunis:",
+        "TITLE": "Uzruna:",
+        "TO": "Kam:",
+        "PAYMENT_MESSAGE": "J\u016bs tiksiet novirz\u012bts(-a) uz apmaksas t\u012bmek\u013ca vietni, lai pabeigtu maks\u0101jumu un rezerv\u0113jumu"
+    }
+}

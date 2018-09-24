@@ -10,7 +10,7 @@
 	"MESSAGE": {
 		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Будь ласка, введіть дійсну адресу електронної пошти!",
 		"VALUE_IS_REQUIRED": "Поле обов'язкове!",
-		"YOU_HAVE_SUCCESSFULLY_SUBSCRIBE": "Ви успішно підписалися!",
+		"YOU_HAVE_SUCCESSFULLY_BOOKED": "Ви успішно підписалися!",
 		"YOU_WILL_GET_NOTIFICATION": "Незабаром ви отримаєте сповіщення електронною поштою та додатково через SMS."
 	},
 	"STANDARD": {

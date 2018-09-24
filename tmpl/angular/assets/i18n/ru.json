@@ -10,7 +10,7 @@
 	"MESSAGE": {
 		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Пожалуйста, введите действительный адрес электронной почты!\n",
 		"VALUE_IS_REQUIRED": "Обязательное поле!",
-		"YOU_HAVE_SUCCESSFULLY_SUBSCRIBE": "Вы успешно подписаны!",
+		"YOU_HAVE_SUCCESSFULLY_BOOKED": "Вы успешно подписаны!",
 		"YOU_WILL_GET_NOTIFICATION": "Вы скоро получите уведомление по электронной почте и, возможно, по SMS."
 	},
 	"STANDARD": {

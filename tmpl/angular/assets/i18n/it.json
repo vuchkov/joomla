@@ -1,47 +1,57 @@
 {
-	"CALENDAR": {
-		"DAY": "Giorno",
-		"MONTH": "Mese",
-		"NEXT": "Prossimo",
-		"PREVIOUS": "Precedente",
-		"TODAY": "Oggi",
-		"WEEK": "Settimana"
-	},
-	"ERROR": {
-		"NO_BOOKABLE_ITEM": "Crea un elemento prenotabile nel tuo account sagenda!",
-	},
-	"EVENT": {
-		"ALL_DAY": "Tutto il giorno",
-		"DATE": "Data"
-	},
-	"MESSAGE": {
-		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Si prega di inserire un indirizzo email valido!",
-		"PLEASE_SELECT": "Seleziona ...",
-		"VALUE_IS_REQUIRED": "È necessario il valore!",
-		"YOU_HAVE_SUCCESSFULLY_SUBSCRIBE": "La tua iscrizione è avvenuta con successo!",
-		"YOU_WILL_GET_NOTIFICATION": "Riceverai al più presto una notifica via mail e facoltativamente anche via SMS."
-	},
-	"STANDARD": {
-		"LINK": "collegamento",
-		"OK": "ok"
-	},
-	"SUBSCRIPTION": {
-		"AMOUNT": "Quantità:",
-		"BACK": "Indietro",
-		"BOOK": "Libro",
-		"DESCRIPTION": "Descrizione:",
-		"DR": "Dr.",
-		"EMAIL": "Indirizzo email:",
-		"FIRST_NAME": "Nome:",
-		"FROM": "Da:",
-		"LAST_NAME": "Cognome:",
-		"LET_S_BOOK_IT": "Prenota",
-		"MISS": "Sig.na",
-		"MR": "Sig.",
-		"MRS": "Sig.ra",
-		"NOTE": "Nota:",
-		"PHONE": "Telefono:",
-		"TITLE": "Titolo:",
-		"TO": "A:"
-	}
+    "MESSAGE": {
+        "YOU_HAVE_SUCCESSFULLY_BOOKED": "La tua iscrizione è avvenuta con successo!",
+        "DISABLE_MULTIPLE_SELECTION": "Disable multiple selection",
+        "ENABLE_MULTIPLE_SELECTION": "Enable multiple selection",
+        "NO_EVENT": "No event found for the given period!",
+        "PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Si prega di inserire un indirizzo email valido!",
+        "PLEASE_SELECT": "Seleziona ...",
+        "VALUE_IS_REQUIRED": "\u00c8 necessario il valore!",
+        "YOU_HAVE_SUCCESSFULLY_SUBSCRIBE": "La tua iscrizione \u00e8 avvenuta con successo!",
+        "YOU_WILL_GET_NOTIFICATION": "Riceverai al pi\u00f9 presto una notifica via mail e facoltativamente anche via SMS."
+    },
+    "CALENDAR": {
+        "DAY": "Giorno",
+        "MONTH": "Mese",
+        "NEXT": "Prossimo",
+        "PREVIOUS": "Precedente",
+        "TODAY": "Oggi",
+        "WEEK": "Settimana"
+    },
+    "ERROR": {
+        "NO_BOOKABLE_ITEM": "Crea un elemento prenotabile nel tuo account sagenda!",
+        "NO_TOKEN": "Please copy your authentication code (token) from your Sagenda's account!"
+    },
+    "EVENT": {
+        "ALL_DAY": "Tutto il giorno",
+        "DATE": "Data"
+    },
+    "MULTIPLE": {
+        "SELECTED_EVENTS": "Selected event(s) :",
+        "CLEAR_SELECTION": "Clear selection"
+    },
+    "STANDARD": {
+        "LINK": "collegamento",
+        "OK": "ok"
+    },
+    "SUBSCRIPTION": {
+        "AMOUNT": "Quantit\u00e0:",
+        "BACK": "Indietro",
+        "BOOK": "Prenota",
+        "DESCRIPTION": "Descrizione:",
+        "DR": "Dr.",
+        "EMAIL": "Indirizzo email:",
+        "FIRST_NAME": "Nome:",
+        "FROM": "Da:",
+        "LAST_NAME": "Cognome:",
+        "LET_S_BOOK_IT": "Prenota ora!",
+        "MISS": "Sig.na",
+        "MR": "Sig.",
+        "MRS": "Sig.ra",
+        "NOTE": "Nota:",
+        "PHONE": "Telefono:",
+        "TITLE": "Titolo:",
+        "TO": "A:",
+        "PAYMENT_MESSAGE": "You will be redirected to the paypal website to complete your payment and booking"
+    }
 }

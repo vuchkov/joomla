@@ -1,49 +1,49 @@
 {
-    "CALENDAR": {
-        "DAY": "Dag",
-        "MONTH": "M\u00e5nad",
-        "NEXT": "N\u00e4sta",
-        "PREVIOUS": "Tidigare",
-        "TODAY": "Idag",
-        "WEEK": "Vecka"
-    },
-    "ERROR": {
-        "NO_BOOKABLE_ITEM": "Var v\u00e4nlig v\u00e4lj minst en bokningsbar kalender under din profil!",
-        "NO_TOKEN": "Please copy your authentication code (token) from your Sagenda's account!"
-    },
-    "EVENT": {
-        "ALL_DAY": "Hela dagen",
-        "DATE": "Datum"
-    },
-    "MESSAGE": {
-        "NO_EVENT": "No event found for the given period!",
-        "PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "V\u00e4nligen skriv in en korrekt e-postadress",
-        "PLEASE_SELECT": "Var v\u00e4nlig v\u00e4lj...",
-        "VALUE_IS_REQUIRED": "Obligatoriskt f\u00e4lt",
-        "YOU_HAVE_SUCCESSFULLY_SUBSCRIBE": "Din anm\u00e4lan \u00e4r registrerad!",
-        "YOU_WILL_GET_NOTIFICATION": "Du kommer snart f\u00e5 en bekr\u00e4ftelse p\u00e5 e-post eller SMS (tillval)."
-    },
-    "STANDARD": {
-        "LINK": "L\u00e4nk",
-        "OK": "OK"
-    },
-    "SUBSCRIPTION": {
-        "AMOUNT": "Belopp:",
-        "BACK": "Tillbaka",
-        "BOOK": "Boka",
-        "DESCRIPTION": "Beskrivning:",
-        "DR": "Dr.",
-        "EMAIL": "E-postadress",
-        "FIRST_NAME": "F\u00f6rnamn:",
-        "FROM": "Fr\u00e5n:",
-        "LAST_NAME": "Efternamn:",
-        "LET_S_BOOK_IT": "Nu bokar vi!",
-        "MISS": "Fr\u00f6ken",
-        "MR": "Herr",
-        "MRS": "Fru",
-        "NOTE": "Anteckning:",
-        "PHONE": "Telefon:",
-        "TITLE": "Titel:",
-        "TO": "Till:"
-    }
+	"CALENDAR": {
+		"DAY": "Dag",
+		"MONTH": "Månad",
+		"NEXT": "Nästa",
+		"PREVIOUS": "Tidigare",
+		"TODAY": "Idag",
+		"WEEK": "Vecka"
+	},
+	"ERROR": {
+		"NO_BOOKABLE_ITEM": "Var vänlig välj minst en bokningsbar kalender under din profil!",
+		"NO_TOKEN": "Please copy your authentication code (token) from your Sagenda's account!"
+	},
+	"EVENT": {
+		"ALL_DAY": "Hela dagen",
+		"DATE": "Datum"
+	},
+	"MESSAGE": {
+		"NO_EVENT": "No event found for the given period!",
+		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Vänligen skriv in en korrekt e-postadress",
+		"PLEASE_SELECT": "Var vänlig välj...",
+		"VALUE_IS_REQUIRED": "Obligatoriskt fält",
+		"YOU_HAVE_SUCCESSFULLY_BOOKED": "Din anmälan är registrerad!",
+		"YOU_WILL_GET_NOTIFICATION": "Du kommer snart få en bekräftelse på e-post eller SMS (tillval)."
+	},
+	"STANDARD": {
+		"LINK": "Länk",
+		"OK": "OK"
+	},
+	"SUBSCRIPTION": {
+		"AMOUNT": "Belopp:",
+		"BACK": "Tillbaka",
+		"BOOK": "Boka",
+		"DESCRIPTION": "Beskrivning:",
+		"DR": "Dr.",
+		"EMAIL": "E-postadress",
+		"FIRST_NAME": "Förnamn:",
+		"FROM": "Från:",
+		"LAST_NAME": "Efternamn:",
+		"LET_S_BOOK_IT": "Nu bokar vi!",
+		"MISS": "Fröken",
+		"MR": "Herr",
+		"MRS": "Fru",
+		"NOTE": "Anteckning:",
+		"PHONE": "Telefon:",
+		"TITLE": "Titel:",
+		"TO": "Till:"
+	}
 }
