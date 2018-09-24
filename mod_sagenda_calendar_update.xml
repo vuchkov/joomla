@@ -11,7 +11,7 @@
 		</downloads>
 		<maintainer>Joomla</maintainer>
 		<maintainerurl>https://github.com/Sagenda/joomla/releases</maintainerurl>
-		<targetplatform name="joomla" version="4.[234567]"/>
+		<targetplatform name="joomla" version="3.[23456789]"/>
 		<client>site</client>
 	</update>
 </updates>
