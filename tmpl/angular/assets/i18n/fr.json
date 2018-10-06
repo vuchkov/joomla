@@ -17,7 +17,8 @@
 	},
 	"MULTIPLE": {
 		"SELECTED_EVENTS": "Evènement(s) sélectioné(s) :",
-		"CLEAR_SELECTION": "Effacer la sélection"
+		"CLEAR_SELECTION": "Effacer la sélection",
+		"NO_SELECTED_EVENTS": "Pas d'évènement sélectionné. Merci de cliquer sur chaque évènement individuellement ou de sélectionner une place en sélectionnant plusieurs jours."
 	},
 	"MESSAGE": {
 		"DISABLE_MULTIPLE_SELECTION": "Désactiver la sélection multiple",

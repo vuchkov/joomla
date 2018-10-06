@@ -1,9 +1,5 @@
 {
     "MESSAGE": {
-        "YOU_HAVE_SUCCESSFULLY_BOOKED": "La tua iscrizione è avvenuta con successo!",
-        "DISABLE_MULTIPLE_SELECTION": "Disable multiple selection",
-        "ENABLE_MULTIPLE_SELECTION": "Enable multiple selection",
-        "NO_EVENT": "No event found for the given period!",
         "PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Si prega di inserire un indirizzo email valido!",
         "PLEASE_SELECT": "Seleziona ...",
         "VALUE_IS_REQUIRED": "\u00c8 necessario il valore!",
@@ -19,16 +15,11 @@
         "WEEK": "Settimana"
     },
     "ERROR": {
-        "NO_BOOKABLE_ITEM": "Crea un elemento prenotabile nel tuo account sagenda!",
-        "NO_TOKEN": "Please copy your authentication code (token) from your Sagenda's account!"
+        "NO_BOOKABLE_ITEM": "Crea un elemento prenotabile nel tuo account sagenda!"
     },
     "EVENT": {
         "ALL_DAY": "Tutto il giorno",
         "DATE": "Data"
-    },
-    "MULTIPLE": {
-        "SELECTED_EVENTS": "Selected event(s) :",
-        "CLEAR_SELECTION": "Clear selection"
     },
     "STANDARD": {
         "LINK": "collegamento",
@@ -51,7 +42,6 @@
         "NOTE": "Nota:",
         "PHONE": "Telefono:",
         "TITLE": "Titolo:",
-        "TO": "A:",
-        "PAYMENT_MESSAGE": "You will be redirected to the paypal website to complete your payment and booking"
+        "TO": "A:"
     }
 }

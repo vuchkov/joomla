@@ -1,15 +1,4 @@
 {
-    "MESSAGE": {
-        "YOU_HAVE_SUCCESSFULLY_BOOKED": "J\u016bs esat veiksm\u012bgi veicis rezerv\u0101ciju!",
-        "DISABLE_MULTIPLE_SELECTION": "Atsp\u0113jot vair\u0101ku vienumu atlasi",
-        "ENABLE_MULTIPLE_SELECTION": "Iesp\u0113jot vair\u0101ku vienumu atlasi",
-        "NO_EVENT": "Nor\u0101d\u012btajam periodam nav atrasts neviens notikums!",
-        "PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "L\u016bdzu, ievadiet der\u012bgo e-pasta adresi!",
-        "PLEASE_SELECT": "L\u016bdzu izvelties...",
-        "VALUE_IS_REQUIRED": "Nepiecie\u0161ams ievad\u012bt!",
-        "YOU_HAVE_SUCCESSFULLY_SUBSCRIBE": "J\u016bs esat veiksm\u012bgi abon\u0113ju\u0161i vienumu!",
-        "YOU_WILL_GET_NOTIFICATION": "Dr\u012bz J\u016bs sa\u0146emsiet pazi\u0146ojumu e-pasta un SMS (p\u0113c izv\u0113les)."
-    },
     "CALENDAR": {
         "DAY": "Diena",
         "MONTH": "M\u0113nesis",
@@ -29,6 +18,16 @@
     "MULTIPLE": {
         "SELECTED_EVENTS": "Atlas\u012btais (ie) notikums (-i):",
         "CLEAR_SELECTION": "Not\u012br\u012bt atlasi"
+    },
+    "MESSAGE": {
+        "DISABLE_MULTIPLE_SELECTION": "Atsp\u0113jot vair\u0101ku vienumu atlasi",
+        "ENABLE_MULTIPLE_SELECTION": "Iesp\u0113jot vair\u0101ku vienumu atlasi",
+        "NO_EVENT": "Nor\u0101d\u012btajam periodam nav atrasts neviens notikums!",
+        "PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "L\u016bdzu, ievadiet der\u012bgo e-pasta adresi!",
+        "PLEASE_SELECT": "L\u016bdzu izvelties...",
+        "VALUE_IS_REQUIRED": "Nepiecie\u0161ams ievad\u012bt!",
+        "YOU_HAVE_SUCCESSFULLY_BOOKED": "J\u016bs esat veiksm\u012bgi abon\u0113ju\u0161i vienumu!",
+        "YOU_WILL_GET_NOTIFICATION": "Dr\u012bz J\u016bs sa\u0146emsiet pazi\u0146ojumu e-pasta un SMS (p\u0113c izv\u0113les)."
     },
     "STANDARD": {
         "LINK": "Saite",

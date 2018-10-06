@@ -18,7 +18,8 @@
 	},
 	"MULTIPLE": {
 		"SELECTED_EVENTS": "Selected event(s) :",
-		"CLEAR_SELECTION": "Clear selection"
+		"CLEAR_SELECTION": "Clear selection",
+		"NO_SELECTED_EVENTS": "No event selected. Please click on each event individually or use range selection by selecting several days."
 	},
 	"MESSAGE": {
 		"DISABLE_MULTIPLE_SELECTION": "Disable multiple selection",
@@ -52,6 +53,8 @@
 		"PHONE": "Phone:",
 		"TITLE": "Title:",
 		"TO": "To:",
-		"PAYMENT_MESSAGE": "You will be redirected to the paypal website to complete your payment and booking"
+		"PAYMENT_MESSAGE": "You will be redirected to the paypal website to complete your payment and booking",
+		"REMOVE_MEMBER": "Remove Member",
+		"ADD_MEMBER": "Add Member"
 	}
 }
