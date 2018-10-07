@@ -2,7 +2,7 @@
 <extension type="module" version="3.8.8" client="site" method="upgrade">
     <name>Sagenda booking and scheduling calendar</name>
     <author>Iteration.info SARL</author>
-    <version>0.6.0</version>
+    <version>0.7.0</version>
     <description>A Booking Calendar for your Joomla Website</description>
     <files>
         <filename>mod_sagenda_calendar.xml</filename>
@@ -34,20 +34,27 @@
                     name="sagendaToken"
                     type="text"
                     label="Token"
-                    description=""
-                    size="60"
+                    description="Please paste here the token that you can found on your dashboard : https://sagenda.net/Dashboard"
+                    size="100"
                     default=""
                 />
             </fieldset>
             <fieldset name="basic">
                 <field
                     name="sagendaWeekStartsOn"
-                    type="text"
+                    type="list"
                     label="Week start on"
-                    description="Set which day your week: 0 for Sunday, 1 for Monday."
-                    size="60"
-                    default="1"
-                />
+                    description="Please select which day your week should start on your calendar."
+                    size="100"
+                    default="1">     
+                <option value="0">Sunday</option>
+                <option value="1">Monday</option>
+                <option value="2">Tuesday</option>
+                <option value="3">Wednesday</option>
+                <option value="4">Thursday</option>
+                <option value="5">Friday</option>
+                <option value="6">Saturday</option>
+            </field>
             </fieldset>
             <fieldset name="basic">
                 <field
@@ -55,7 +62,7 @@
                     type="text"
                     label="Date format"
                     description="Define the format of date."
-                    size="60"
+                    size="100"
                     default="DD MMMM YYYY"
                 />
             </fieldset>
@@ -65,7 +72,7 @@
                     type="text"
                     label="Time format"
                     description="Define the format of time."
-                    size="60"
+                    size="100"
                     default="HH:mm"
                 />
             </fieldset>
