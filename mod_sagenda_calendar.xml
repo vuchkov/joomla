@@ -1,84 +1,118 @@
 <?xml version="1.0" encoding="utf-8"?>
 <extension type="module" version="3.8.8" client="site" method="upgrade">
-    <name>Sagenda booking and scheduling calendar</name>
-    <author>Iteration.info SARL</author>
-    <version>0.7.0</version>
-    <description>A Booking Calendar for your Joomla Website</description>
-    <files>
-        <filename>mod_sagenda_calendar.xml</filename>
-        <filename>mod_sagenda_calendar_update.xml</filename>
-        <filename module="mod_sagenda_calendar">mod_sagenda_calendar.php</filename>
-        <filename>index.html</filename>
-        <filename>helper.php</filename>
-        <filename>tmpl/default.php</filename>
-        <filename>mashape/unirest-php/src/Unirest.php</filename>
-        <filename>mashape/unirest-php/src/Unirest/Exception.php</filename>
-        <filename>mashape/unirest-php/src/Unirest/Method.php</filename>
-        <filename>mashape/unirest-php/src/Unirest/Request.php</filename>
-        <filename>mashape/unirest-php/src/Unirest/Response.php</filename>
-        <filename>mashape/unirest-php/src/Unirest/Request/Body.php</filename>
-        <filename>tmpl/index.html</filename>
-        <filename>tmpl/bootstrap-theme.css.map</filename>
-        <filename>tmpl/bootstrap-theme-wrapper.css</filename>
-        <filename>tmpl/bootstrap-wrapper.css</filename>
-        <filename>tmpl/angular/main.js</filename>
-        <filename>tmpl/angular/polyfills.js</filename>
-        <filename>tmpl/angular/runtime.js</filename>
-        <filename>tmpl/angular/styles.css</filename>
-        <folder>tmpl/angular/assets/</folder>
-    </files>
-    <config>
-        <fields name="params">
-            <fieldset name="basic">
-                <field
-                    name="sagendaToken"
-                    type="text"
-                    label="Token"
-                    description="Please paste here the token that you can found on your dashboard : https://sagenda.net/Dashboard"
-                    size="100"
-                    default=""
-                />
-            </fieldset>
-            <fieldset name="basic">
-                <field
-                    name="sagendaWeekStartsOn"
-                    type="list"
-                    label="Week start on"
-                    description="Please select which day your week should start on your calendar."
-                    size="100"
-                    default="1">     
-                <option value="0">Sunday</option>
-                <option value="1">Monday</option>
-                <option value="2">Tuesday</option>
-                <option value="3">Wednesday</option>
-                <option value="4">Thursday</option>
-                <option value="5">Friday</option>
-                <option value="6">Saturday</option>
-            </field>
-            </fieldset>
-            <fieldset name="basic">
-                <field
-                    name="sagendaDateFormat"
-                    type="text"
-                    label="Date format"
-                    description="Define the format of date."
-                    size="100"
-                    default="DD MMMM YYYY"
-                />
-            </fieldset>
-                        <fieldset name="basic">
-                <field
-                    name="sagendaTimeFormat"
-                    type="text"
-                    label="Time format"
-                    description="Define the format of time."
-                    size="100"
-                    default="HH:mm"
-                />
-            </fieldset>
-        </fields>
-    </config>
-    <updateservers>
-        <server type="extension" name="mod_sagenda_calendar">https://raw.githubusercontent.com/Sagenda/joomla/master/mod_sagenda_calendar_update.xml</server>
-    </updateservers>
+	<name>
+		Sagenda booking and scheduling calendar
+	</name>
+	<author>
+		Iteration.info SARL
+	</author>
+	<version>
+		0.7.0
+	</version>
+	<description>
+		A Booking Calendar for your Joomla Website
+	</description>
+	<files>
+		<filename>
+			mod_sagenda_calendar.xml
+		</filename>
+		<filename>
+			mod_sagenda_calendar_update.xml
+		</filename>
+		<filename module="mod_sagenda_calendar">
+			mod_sagenda_calendar.php
+		</filename>
+		<filename>
+			index.html
+		</filename>
+		<filename>
+			helper.php
+		</filename>
+		<filename>
+			tmpl/default.php
+		</filename>
+		<filename>
+			mashape/unirest-php/src/Unirest.php
+		</filename>
+		<filename>
+			mashape/unirest-php/src/Unirest/Exception.php
+		</filename>
+		<filename>
+			mashape/unirest-php/src/Unirest/Method.php
+		</filename>
+		<filename>
+			mashape/unirest-php/src/Unirest/Request.php
+		</filename>
+		<filename>
+			mashape/unirest-php/src/Unirest/Response.php
+		</filename>
+		<filename>
+			mashape/unirest-php/src/Unirest/Request/Body.php
+		</filename>
+		<filename>
+			tmpl/index.html
+		</filename>
+		<filename>
+			tmpl/bootstrap-theme.css.map
+		</filename>
+		<filename>
+			tmpl/bootstrap-theme-wrapper.css
+		</filename>
+		<filename>
+			tmpl/bootstrap-wrapper.css
+		</filename>
+		<filename>
+			tmpl/angular/main.js
+		</filename>
+		<filename>
+			tmpl/angular/polyfills.js
+		</filename>
+		<filename>
+			tmpl/angular/runtime.js
+		</filename>
+		<filename>
+			tmpl/angular/styles.css
+		</filename>
+		<folder>
+			tmpl/angular/assets/
+		</folder>
+	</files>
+	<config>
+		<fields name="params">
+			<fieldset name="basic">
+				<field name="sagendaToken" required="true" type="text" label="Token" description="Please paste here the token that you can found on your dashboard : https://sagenda.net/Dashboard" size="200" default="" />
+				<field name="sagendaWeekStartsOn" type="list" label="Week start on" description="Please select which day your week should start on your calendar." size="200" default="1">
+					<option value="0">
+						Sunday
+					</option>
+					<option value="1">
+						Monday
+					</option>
+					<option value="2">
+						Tuesday
+					</option>
+					<option value="3">
+						Wednesday
+					</option>
+					<option value="4">
+						Thursday
+					</option>
+					<option value="5">
+						Friday
+					</option>
+					<option value="6">
+						Saturday
+					</option>
+				</field>
+				<field name="sagendaDateFormat" type="text" label="Date format" description="Define the format of date you want." size="200" default="DD MMMM YYYY" required="true" hint="Please enter a format" />
+				<field name="sagendaTimeFormat" type="text" label="Time format" description="Define the format of time you want." size="200" required="true" default="HH:mm" hint="Please enter a format" />
+				<field name="note11" type="note" label="You will find the complete list of possible date and time format here : &lt;a href='https://momentjs.com/docs/#/displaying/' target='blank'&gt;https://momentjs.com/docs/#/displaying/&lt;/a&gt; " class="alert alert-info"/>
+			</fieldset>
+		</fields>
+	</config>
+	<updateservers>
+		<server type="extension" name="mod_sagenda_calendar">
+			https://raw.githubusercontent.com/Sagenda/joomla/master/mod_sagenda_calendar_update.xml
+		</server>
+	</updateservers>
 </extension>
