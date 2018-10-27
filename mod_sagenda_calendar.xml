@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<extension type="module" version="3.8.8" client="site" method="upgrade">
+<extension type="module" version="3.8.13" client="site" method="upgrade">
 	<name>
 		Sagenda booking and scheduling calendar
 	</name>
@@ -7,7 +7,7 @@
 		Iteration.info SARL
 	</author>
 	<version>
-		0.7.0
+		0.7.1
 	</version>
 	<description>
 		A Booking Calendar for your Joomla Website
@@ -104,8 +104,8 @@
 						Saturday
 					</option>
 				</field>
-				<field name="sagendaDateFormat" type="text" label="Date format" description="Define the format of date you want." size="200" default="DD MMMM YYYY" required="true" hint="Please enter a format" />
-				<field name="sagendaTimeFormat" type="text" label="Time format" description="Define the format of time you want." size="200" required="true" default="HH:mm" hint="Please enter a format" />
+				<field name="sagendaDateFormat" type="text" label="Date format" description="Define the format of date you want, &lt;br/&gt; YYYY-MM-DD for 1981-10-25 &lt;br/&gt; DD.MM.YY for 25.10.1981" size="200" default="DD MMMM YYYY" required="true" hint="Please enter a format" />
+				<field name="sagendaTimeFormat" type="text" label="Time format" description="Define the format of time you want, &lt;br/&gt; HH:mm for 18:00&lt;br/&gt; hh:mm A for 06:00 PM" size="200" required="true" default="HH:mm" hint="Please enter a format" />
 				<field name="note11" type="note" label="You will find the complete list of possible date and time format here : &lt;a href='https://momentjs.com/docs/#/displaying/' target='blank'&gt;https://momentjs.com/docs/#/displaying/&lt;/a&gt; " class="alert alert-info"/>
 			</fieldset>
 		</fields>
