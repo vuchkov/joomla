@@ -8,9 +8,10 @@
 		"WEEK": "Week"
 	},
 	"ERROR": {
-		"NO_BOOKABLE_ITEM": "Please create at least a bookable item in your Sagenda's account!",
+		"NO_BOOKABLE_ITEM": "Please create at least 1 bookable item in your Sagenda's account!",
 		"NO_TOKEN": "Please copy your authentication code (token) from your Sagenda's account!",
-		"DIFFERENT_CURRENCIES": "You can not book multiple events that have different payment currencies."
+		"DIFFERENT_CURRENCIES": "You can not book multiple events that have different payment currencies.",
+		"NUMBER_OF_MEMBERS_EXCEEDS_MAXIMUM": "There are not enough openings for the number of members you would like to book."
 	},
 	"EVENT": {
 		"ALL_DAY": "All Day",

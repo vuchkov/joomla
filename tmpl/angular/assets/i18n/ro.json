@@ -1,36 +1,61 @@
 {
-	"CALENDAR": {
-		"DAY": "Zi",
-		"MONTH": "Lună",
-		"NEXT": "Înainte",
-		"PREVIOUS": "Înapoi",
-		"TODAY": "Astăzi",
-		"WEEK": "Săptămână"
-	},
-	"MESSAGE": {
-		"PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "Vă rugăm să introduceţi o adresă de email validă!",
-		"PLEASE_SELECT": "",
-		"VALUE_IS_REQUIRED": "Vă rugăm să introduceţi o valoare!",
-		"YOU_HAVE_SUCCESSFULLY_BOOKED": "V-ați abonat cu succes!",
-		"YOU_WILL_GET_NOTIFICATION": "Veţi primi în curând o notificare prin email sau opțional prin SMS."
-	},
-	"SUBSCRIPTION": {
-		"AMOUNT": "Total:",
-		"BACK": "Înapoi",
-		"BOOK": "Rezervă",
-		"DESCRIPTION": "Descriere:",
-		"DR": "Dr.",
-		"EMAIL": "Adresă email:",
-		"FIRST_NAME": "Prenume:",
-		"FROM": "De la:",
-		"LAST_NAME": "Nume:",
-		"LET_S_BOOK_IT": "Efectuează rezervarea!",
-		"MISS": "D-şoara",
-		"MR": "D-nul",
-		"MRS": "D-na",
-		"NOTE": "Notă:",
-		"PHONE": "Telefon:",
-		"TITLE": "Titlu:",
-		"TO": "La:"
-	}
+    "MESSAGE": {
+        "YOU_HAVE_SUCCESSFULLY_BOOKED": "Ai efectuat cu succes rezervarea!",
+        "DISABLE_MULTIPLE_SELECTION": "Dezactiveaz\u0103 selectia multipl\u0103",
+        "ENABLE_MULTIPLE_SELECTION": "Permite selectia multipl\u0103",
+        "NO_EVENT": "Niciun eveniment nu a fost g\u0103sit pentru aceast\u0103 perioad\u0103!",
+        "PLEASE_ENTER_A_VALID_EMAIL_ADDRESS": "V\u0103 rug\u0103m s\u0103 introduce\u0163i o adres\u0103 de email valid\u0103!",
+        "PLEASE_SELECT": "Te rog alege...",
+        "VALUE_IS_REQUIRED": "V\u0103 rug\u0103m s\u0103 introduce\u0163i o valoare!",
+        "YOU_HAVE_SUCCESSFULLY_SUBSCRIBE": "V-a\u021bi abonat cu succes!",
+        "YOU_WILL_GET_NOTIFICATION": "Ve\u0163i primi \u00een cur\u00e2nd o notificare prin email sau op\u021bional prin SMS."
+    },
+    "ERROR": {
+        "DIFFERENT_CURRENCIES": "Acum poti face rezervare pentru mai multe evenimente, fiecare cu plata intr-o valut\u0103 diferit\u0103.",
+        "NO_BOOKABLE_ITEM": "Te rog creaz\u0103 cel putin un item pentru care se pot face rezerv\u0103ri in contul t\u0103u de Sagenda!",
+        "NO_TOKEN": "Te rog copiaz\u0103 codul t\u0103u de autentificare (token) din contul t\u0103u de Sagenda!"
+    },
+    "MULTIPLE": {
+        "NO_SELECTED_EVENTS": "Nu exist\u0103 nici un eveniment selectat. Te rog d\u0103 click pe fiecare eveniment individual sau foloseste selectia de interval, aleg\u00e2nd mai multe zile.",
+        "SELECTED_EVENTS": "Evenimente selectate :",
+        "CLEAR_SELECTION": "Goleste selectia"
+    },
+    "SUBSCRIPTION": {
+        "REMOVE_MEMBER": "Elimin\u0103 membru",
+        "ADD_MEMBER": "Adaug\u0103 membru",
+        "AMOUNT": "Total:",
+        "BACK": "\u00cenapoi",
+        "BOOK": "Rezerv\u0103",
+        "DESCRIPTION": "Descriere:",
+        "DR": "Dr.",
+        "EMAIL": "Adres\u0103 email:",
+        "FIRST_NAME": "Prenume:",
+        "FROM": "De la:",
+        "LAST_NAME": "Nume:",
+        "LET_S_BOOK_IT": "Efectueaz\u0103 rezervarea!",
+        "MISS": "D-\u015foara",
+        "MR": "D-nul",
+        "MRS": "D-na",
+        "NOTE": "Not\u0103:",
+        "PHONE": "Telefon:",
+        "TITLE": "Titlu:",
+        "TO": "La:",
+        "PAYMENT_MESSAGE": "Vei fi redirectionat c\u0103tre website-ul PayPal pentru a finaliza plata si rezervarea"
+    },
+    "CALENDAR": {
+        "DAY": "Zi",
+        "MONTH": "Lun\u0103",
+        "NEXT": "\u00cenainte",
+        "PREVIOUS": "\u00cenapoi",
+        "TODAY": "Ast\u0103zi",
+        "WEEK": "S\u0103pt\u0103m\u00e2n\u0103"
+    },
+    "EVENT": {
+        "ALL_DAY": "Toat\u0103 ziua",
+        "DATE": "Dat\u0103"
+    },
+    "STANDARD": {
+        "LINK": "Link",
+        "OK": "OK"
+    }
 }
