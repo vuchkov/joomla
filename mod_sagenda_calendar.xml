@@ -43,6 +43,7 @@
                 <field name="sagendaDateFormat" type="text" label="Date format" description="Define the format of date you want, &lt;br/&gt; YYYY-MM-DD for 1981-10-25 &lt;br/&gt; DD.MM.YY for 25.10.1981" size="200" default="DD MMMM YYYY" required="true" hint="Please enter a format" />
                 <field name="sagendaTimeFormat" type="text" label="Time format" description="Define the format of time you want, &lt;br/&gt; HH:mm for 18:00&lt;br/&gt; hh:mm A for 06:00 PM" size="200" required="true" default="HH:mm" hint="Please enter a format" />
                 <field name="note11" type="note" label="You will find the complete list of possible date and time format here : &lt;a href='https://momentjs.com/docs/#/displaying/' target='blank'&gt;https://momentjs.com/docs/#/displaying/&lt;/a&gt; " class="alert alert-info"/>
+                <field name="noteVideo" type="note" label="Watch our tutorial on YouTube : &lt;a href='https://youtu.be/lkB0f6MmKEc' target='blank'&gt;https://youtu.be/lkB0f6MmKEc&lt;/a&gt; " class="alert alert-info"/>
             </fieldset>
         </fields>
     </config>
